@@ -1,0 +1,38 @@
+.card{
+    border: 1px solid aquamarine;
+    border-radius: 12px;
+    background-color: rgb(239, 249, 246);
+    margin: 200px;
+    width: 600px;
+}
+.logo{
+    margin-left: -5px;
+    margin-bottom: -80px;
+    
+}
+.card-text{
+    padding: 50px;
+
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: -15px;
+}
+h1{
+    font-family: 'Space Mono', monospace;
+    margin-bottom: -10px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.btn{
+    border: 3px dashed blue;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 20px;
+}
